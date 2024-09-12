@@ -11,7 +11,7 @@ export default function Hero() {
        <div>
         {/* eslint-disable-next-line react/no-unescaped-entities */}
         <h1 className='text-[35px] md:text-[50px] text-white font-bold'>
-          HI, I'M <span className='text-cyan-500'>LAIBA KHALID</span>
+          HI, I&apos;M <span className='text-cyan-500'>LAIBA KHALID</span>
         </h1>
         <TextEffect/>
         {/* eslint-disable-next-line react/no-unescaped-entities */}
