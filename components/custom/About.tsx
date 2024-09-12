@@ -12,14 +12,14 @@ const About = () => {
              </h1>
              {/* eslint-disable-next-line react/no-unescaped-entities */}
             <p className=' flex  mb-[2rem] flex-center justify-center text-justify font-semibold text-[19px]'>
-            Hi, I'm Laiba, a university student currently in my 2nd semester, with a growing passion 
-            for front-end development. Even though I’m early in my academic journey, I’ve already 
+            Hi, I&apos;m Laiba, a university student currently in my 2nd semester, with a growing passion 
+            for front-end development. Even though I&apos;m early in my academic journey, I&apos;ve already 
             gained hands-on experience and skills in key technologies like TypeScript, Tailwind CSS,
              Next.js, and Node.js.
-             I’m dedicated to honing my craft by continuously learning and applying modern development practices.
+             I&apos;m dedicated to honing my craft by continuously learning and applying modern development practices.
              My focus is on creating clean, responsive, and user-friendly interfaces that provide seamless user experiences.
-            Feel free to reach out if you’re interested in connecting or working on something together. 
-            I’m always eager to explore new opportunities and expand my horizons in the tech world.
+            Feel free to reach out if you&apos;re interested in connecting or working on something together. 
+            I&apos;m always eager to explore new opportunities and expand my horizons in the tech world.
             </p> 
         </div>
         <div

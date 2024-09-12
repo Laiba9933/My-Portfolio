@@ -16,8 +16,8 @@ export default function Hero() {
         <TextEffect/>
         {/* eslint-disable-next-line react/no-unescaped-entities */}
         <p className='mt-[2rem] text-[18px] font-semibold text-[#18171792]'>
-        Welcome to my portfolio! I’m a front-end developer in the making, currently pursuing 
-        my studies in university. I’m skilled in TypeScript, Tailwind CSS, Next.js, and Node.js, 
+        Welcome to my portfolio! I&apos;m a front-end developer in the making, currently pursuing 
+        my studies in university. I&apos;m skilled in TypeScript, Tailwind CSS, Next.js, and Node.js, 
         and I love building visually appealing and responsive web applications.
           </p>
           <div className='mt-[2rem] flex-col space-y-6 sm:space-y-0 sm:flex sm:flex-row items-center sm:space-x-6'>
