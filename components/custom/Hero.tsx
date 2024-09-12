@@ -6,13 +6,6 @@ import { ArrowDownIcon } from 'lucide-react'
 export default function Hero() {
   return (
     <>
-    {/* <div className='bg-gradient-to-r from-cyan-300 rounded-lg  min-h-screen'>
-        <h1 className='font-lightbold text-3xl pt-10 px-28 text-black'>Hi, i am</h1>
-        <h2 className='font-semibold text-6xl pt-4 px-32'>Laiba Khalid</h2>
-        <h2 className='font-lightbold text-3xl pt-2 px-32'>Frontend Developer</h2>
-    </div>
-     */}
-  
      <section id='hero' className=' h-[88vh] bg-gradient-to-r from-cyan-300 rounded-lg  min-h-screen bg-center'>
       <div className='w-[88%] grid-cols-1 mx-auto grid lg:grid-cols-2 gap-[3rem] h-[100%] items-center'>
        <div>

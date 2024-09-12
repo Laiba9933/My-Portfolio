@@ -2,23 +2,9 @@ import React, { useState } from 'react';
 
 export default function Contactform() {
   const [formData, setFormData] = useState({ name: '', email: '', message: '' });
-
-  // const handleChange = (e) => {
-  //   setFormData({ ...formData, [e.target.name]: e.target.value });
-
     const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
       setFormData({ ...formData, [e.target.name]: e.target.value });
-  
-
   };
-
-  // const handleSubmit = (e) => {
-  //   e.preventDefault();
-  //   // Send form data to a backend or email service
-  //   console.log(formData);
-  //   alert('Message Sent!');
-  // };
-
 const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     console.log(formData);

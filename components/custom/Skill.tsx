@@ -39,7 +39,7 @@ function Skill() {
           </div>
         </div>
         <div>
-        <div className='bg-pink-400 hover:scale-110 transform transition-all duration-300 hover:-rotate-6 
+        {/* <div className='bg-pink-400 hover:scale-110 transform transition-all duration-300 hover:-rotate-6 
           uppercase font-semibold text-center p-[2rem]'>
             <CommandLineIcon className='w-[6rem] h-[6rem] mx-auto text-[#f1f3f2]'/>
             <h1 className='text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem]'>
@@ -50,7 +50,7 @@ function Skill() {
             efficient web applications with TypeScript, while leveraging C++ for solving complex algorithms
             and building high-performance solutions. 
            </p>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
