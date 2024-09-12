@@ -7,6 +7,7 @@ const Footer = () => {
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
         {/* Footer Left */}
         <div className="mb-4 md:mb-0">
+          {/* eslint-disable-next-line react/no-unescaped-entities */}
           <h1 className="text-xl font-bold">Laiba's Portfolio</h1>
           <p className="text-sm">Building the future, one line of code at a time.</p>
         </div>

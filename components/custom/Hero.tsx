@@ -9,10 +9,12 @@ export default function Hero() {
      <section id='hero' className=' h-[88vh] bg-gradient-to-r from-cyan-300 rounded-lg  min-h-screen bg-center'>
       <div className='w-[88%] grid-cols-1 mx-auto grid lg:grid-cols-2 gap-[3rem] h-[100%] items-center'>
        <div>
+        {/* eslint-disable-next-line react/no-unescaped-entities */}
         <h1 className='text-[35px] md:text-[50px] text-white font-bold'>
           HI, I'M <span className='text-cyan-500'>LAIBA KHALID</span>
         </h1>
         <TextEffect/>
+        {/* eslint-disable-next-line react/no-unescaped-entities */}
         <p className='mt-[2rem] text-[18px] font-semibold text-[#18171792]'>
         Welcome to my portfolio! I’m a front-end developer in the making, currently pursuing 
         my studies in university. I’m skilled in TypeScript, Tailwind CSS, Next.js, and Node.js, 

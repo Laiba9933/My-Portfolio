@@ -10,6 +10,7 @@ const About = () => {
             <h1 className='text-[23px] font-bold underline uppercase  text-cyan-600 mb-[1rem]'>
               ABOUT ME
              </h1>
+             {/* eslint-disable-next-line react/no-unescaped-entities */}
             <p className=' flex  mb-[2rem] flex-center justify-center text-justify font-semibold text-[19px]'>
             Hi, I'm Laiba, a university student currently in my 2nd semester, with a growing passion 
             for front-end development. Even though I’m early in my academic journey, I’ve already 

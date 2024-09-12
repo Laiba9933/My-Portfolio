@@ -17,6 +17,7 @@ function Skill() {
             <h1 className='text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem] text-center'>
             Frontend
             </h1>
+            {/* eslint-disable-next-line react/no-unescaped-entities */}
             <p className='text-[15px] text-white font-normal'> 
             I design responsive, modern websites using Next.js, Tailwind CSS, and ShadCN UI components.
             My focus is on creating fast, scalable, and user-friendly web applications with clean, optimized
@@ -31,6 +32,7 @@ function Skill() {
             <h1 className='text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem]'>
             Coder
             </h1>
+            {/* eslint-disable-next-line react/no-unescaped-entities */}
             <p className='text-[15px] text-white font-normal'> 
             I'm a dedicated coder with expertise in both TypeScript and C++. From building scalable 
             web applications using TypeScript to tackling complex problem-solving with C++, I strive to write 
